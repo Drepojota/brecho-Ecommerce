@@ -1,0 +1,27 @@
+body {
+    color: black;
+    background-color: rgb(215, 223, 151);
+    
+}   
+
+.pontos{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 25px;
+}
+
+footer{
+    margin-top: 20%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 25px;
+    align-items: center;
+    border: solid 1px black;
+    text-align:left;
+    align-items: center;
+}
+
+.dropdown-menu {
+    border: solid 1px black;
+    
+}
